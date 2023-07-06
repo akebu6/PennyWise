@@ -1,5 +1,8 @@
 PennyWise
 ==================
+## About
+Submitted to HackBytes II (2023) and winner
+
 ## 💡 Inspiration
 The team was inspired to create PennyWise due to the prevailing numbers of students seen on a daily basis that struggle with their finances and not knowing where or what their money is spent on. We saw this as an opportunity to create PennyWise in order to help students make informed financial decisions.
 
