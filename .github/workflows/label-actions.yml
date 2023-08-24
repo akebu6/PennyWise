@@ -11,9 +11,10 @@ jobs:
 
     steps:
     - uses: actions/setup-node@v2
+    - name: EddieHubCommunity labels Action
       with:
         node-version: '14'
-    - uses: EddieHubCommunity/gh-action-open-source-labels@main
+    - uses: EddieHubCommunity/gh-action-open-source-labels@v0.1.1
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         owner-name: 'akebu6'
