@@ -54,3 +54,8 @@ Throughout this project, the team experienced significant personal and professio
 ## 🚀 What is next for PennyWise
 ---
 Despite the initial challenges faced in the development of PennyWise, the team is dedicated to ensuring that College and University students will have a platform to use in order to track their expenses. The team plans on developing a mobile application to run side-by-side with the webapp.
+
+## Images
+---
+![homepage](https://github.com/akebu6/PennyWise/assets/74776297/0ce1baa5-96bd-49e7-aff6-330afbd89c6b)
+
